@@ -23,8 +23,4 @@ This repository contains the implementation of a **Geo-Parsing System** that aut
 - Enhanced word sense disambiguation using probabilistic methods.
 - Processed large datasets efficiently for improved performance.
 
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/geo-parsing-system.git
-   cd geo-parsing-system
+
